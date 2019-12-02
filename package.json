@@ -1,0 +1,24 @@
+{
+  "name": "mobile-swipe",
+  "version": "0.0.1",
+  "description": "基于vue的移动端swipe/tap/longTap事件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vencent2017/mobile-swipe.git"
+  },
+  "keywords": [
+    "vue",
+    "mobile",
+    "swipe"
+  ],
+  "author": "vencent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vencent2017/mobile-swipe/issues"
+  },
+  "homepage": "https://github.com/vencent2017/mobile-swipe#readme"
+}
